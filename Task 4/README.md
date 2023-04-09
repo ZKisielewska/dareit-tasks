@@ -1,4 +1,6 @@
-## Goals of the Task 4
+## Task 4 Create Virtual Machine
+
+### Goals of the Task 4
 
 1. What is Virual Machine?
 2. Create Virtual Machine (VM)
