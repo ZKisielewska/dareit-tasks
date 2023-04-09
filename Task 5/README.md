@@ -1,4 +1,6 @@
-# Cloud SQL for PostgreSQL
+## Task 5 Create Cloud SQL
+
+### Cloud SQL for PostgreSQL
 DareIT task_5 - 3_prepare a query for average age of students
 
 To complete the task we created Cloud SQL instance on GCP and chose PostgreSQL sevices to manage the data. In order to connect to the Database we used DBeaver tool.
