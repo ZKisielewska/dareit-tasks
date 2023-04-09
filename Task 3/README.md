@@ -1,4 +1,6 @@
-## Goals of the Task 3
+## Python and Cloud Function
+
+### Goals of the Task 3
 
 1. What is VIM and how to use is it  
 2. What Cloud Functions are
